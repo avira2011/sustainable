@@ -4,7 +4,7 @@ import random
 WIDTH = 800
 HEIGHT = 650
 
-ITEMS = ["bag","bottle","chips","battery"]
+ITEMS = ["blue-star","green-star","orange-star","purple-star", "red-star"]
 items = []
 background = Actor('bground')
 current_level = 1
